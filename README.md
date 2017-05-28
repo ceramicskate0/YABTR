@@ -1,2 +1,6 @@
-# Saving_BlueTeam
+# Yet Another Blue Team Repo
 Repo for Blue team tools for both windows and Linux
+
+installer.py is the installer for linux repo list
+
+installer.ps1 is the installer for the windows repo list
