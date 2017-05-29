@@ -2,7 +2,7 @@
 import os
 
 currentdir=os.getcwd()
-files = [x for x in os.listdir(currentdir+str("/Lists")) if x.endswith('.txt')]
+files = [x for x in os.listdir(currentdir+str("/Lists")) if x.endswith('.ltxt')]
 if (os.path.isdir(str(currentdir)+"/ToolBox")) is False:
 	os.makedir(str(currentdir)+"/ToolBox")
 os.system("cd "+str(currentdir)+ "/Lists")
