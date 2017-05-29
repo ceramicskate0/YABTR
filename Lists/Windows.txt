@@ -1,4 +1,3 @@
-https://github.com/mattifestation/PowerShellArsenal
 https://github.com/realparisi/WMI_Monitor
 https://github.com/mattifestation/PowerShellArsenal
 https://github.com/enigma0x3/Misc-PowerShell-Stuff
