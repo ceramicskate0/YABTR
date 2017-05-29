@@ -1,1 +1,11 @@
-
+https://github.com/mattifestation/PowerShellArsenal
+https://github.com/google/grr
+https://github.com/davehull/Kansa
+https://github.com/fireeye/flare-ida
+https://github.com/fireeye/pycommands
+https://github.com/fireeye/chopshop
+https://github.com/iadgov/Secure-Host-Baseline
+https://github.com/0xd4d/de4dot
+https://github.com/realparisi/WMI_Monitor
+https://github.com/mattifestation/PowerShellArsenal
+https://github.com/enigma0x3/Misc-PowerShell-Stuff
