@@ -2,3 +2,4 @@ https://github.com/realparisi/WMI_Monitor
 https://github.com/mattifestation/PowerShellArsenal
 https://github.com/enigma0x3/Misc-PowerShell-Stuff
 https://download.sysinternals.com/files/SysinternalsSuite.zip
+https://github.com/PowerShellMafia/CimSweep
