@@ -3,3 +3,8 @@ https://github.com/mattifestation/PowerShellArsenal
 https://github.com/enigma0x3/Misc-PowerShell-Stuff
 https://download.sysinternals.com/files/SysinternalsSuite.zip
 https://github.com/PowerShellMafia/CimSweep
+https://github.com/Invoke-IR/WmiEvent
+https://github.com/Invoke-IR/PowerForensics
+https://github.com/sans-blue-team/DeepBlueCLI
+https://github.com/nccgroup/SCOMDecrypt
+https://github.com/nccgroup/mnemosyne
