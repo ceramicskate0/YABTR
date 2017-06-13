@@ -8,3 +8,4 @@ https://github.com/Invoke-IR/PowerForensics
 https://github.com/sans-blue-team/DeepBlueCLI
 https://github.com/nccgroup/SCOMDecrypt
 https://github.com/nccgroup/mnemosyne
+https://github.com/JavelinNetworks/IR-Tools
