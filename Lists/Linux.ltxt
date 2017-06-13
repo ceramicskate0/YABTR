@@ -9,3 +9,4 @@ git clone https://github.com/MISP/MISP
 git clone https://github.com/tfairane/SpotResponder
 git clone https://github.com/jbremer/vmcloak
 git clone https://github.com/Netflix/security_monkey
+git clone https://github.com/DanMcInerney/net-creds
