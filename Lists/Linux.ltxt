@@ -12,3 +12,4 @@ git clone https://github.com/Netflix/security_monkey
 git clone https://github.com/DanMcInerney/net-creds
 git clone https://github.com/kenbellows/packet-knife
 git clone https://github.com/SpiderLabs/malware-analysis
+git clone https://github.com/davidoren/CuckooSploit
