@@ -12,3 +12,4 @@ https://github.com/JavelinNetworks/IR-Tools
 https://github.com/achillean/Shodan.NET
 https://github.com/PyroTek3/PowerShell-AD-Recon
 https://github.com/mattifestation/PowerWorm
+https://github.com/szimeus/evalyzer
