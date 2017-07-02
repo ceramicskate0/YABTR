@@ -17,3 +17,5 @@ https://github.com/diogo-fernan/ir-rescue
 https://github.com/MHaggis/sysmon-dfir
 https://github.com/MHaggis/hunt-detect-prevent
 https://github.com/jivoi/awesome-osint
+https://github.com/MHaggis/sysmon-dfir
+https://github.com/MHaggis/hunt-detect-prevent
