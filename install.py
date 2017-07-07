@@ -1,16 +1,23 @@
 #!/usr/bin/python
 import os
+from subprocess import call
 
 currentdir=os.getcwd()
+
+os.chdir(str(currentdir))
+
 if (os.path.isdir(str(currentdir)+"/Blue_ToolBox")) is False:
 	os.makedirs(str(currentdir)+"/Blue_ToolBox")
+
 os.chdir(str(currentdir)+ "/Lists")
+
 files = [x for x in os.listdir(currentdir+str("/Lists")) if x.endswith('.txt')]
+
 for filename in files:
 	dirname= os.path.splitext(str(filename))[0]
 	os.chdir(str(currentdir)+"/Blue_ToolBox/")
 	if (os.path.isdir(str(currentdir)+"/Blue_ToolBox/")) is False:
-			os.system("rm -rf "+str(dirname))
+		os.system("rm -rf "+str(dirname))
 	os.makedirs(str(currentdir)+"/Blue_ToolBox/"+str(dirname))
 	os.chdir(str(currentdir)+"/Blue_ToolBox/"+str(dirname))
 	f=open(str(currentdir)+ "/Lists/"+str(filename))
