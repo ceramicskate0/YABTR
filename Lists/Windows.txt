@@ -20,3 +20,5 @@ https://github.com/jivoi/awesome-osint
 https://github.com/MHaggis/sysmon-dfir
 https://github.com/MHaggis/hunt-detect-prevent
 https://github.com/williballenthin/process-forest
+https://github.com/securitywithoutborders/hardentools
+https://github.com/PaulSec/awesome-windows-domain-hardening
