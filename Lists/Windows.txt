@@ -23,3 +23,4 @@ https://github.com/williballenthin/process-forest
 https://github.com/securitywithoutborders/hardentools
 https://github.com/PaulSec/awesome-windows-domain-hardening
 https://github.com/Ben0xA/PowerShellDefense
+https://github.com/phishme/malware_analysis
