@@ -22,3 +22,4 @@ https://github.com/MHaggis/hunt-detect-prevent
 https://github.com/williballenthin/process-forest
 https://github.com/securitywithoutborders/hardentools
 https://github.com/PaulSec/awesome-windows-domain-hardening
+https://github.com/Ben0xA/PowerShellDefense
