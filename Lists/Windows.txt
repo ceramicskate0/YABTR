@@ -26,3 +26,4 @@ https://github.com/Ben0xA/PowerShellDefense
 https://github.com/phishme/malware_analysis
 https://github.com/enigma0x3/Misc-PowerShell-Stuff/blob/master/Get-ScheduledTaskComHandler.ps1
 https://github.com/1aN0rmus/TekDefense-Automater
+https://github.com/darkoperator/Posh-VirusTotal
