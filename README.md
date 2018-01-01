@@ -1,6 +1,9 @@
 # Yet Another Blue Team Repo
 Repo for Blue team tools for both windows and Linux, not OSx.
 
+# Notes:
+Designed my own tool to deal with log data on endpoints to find malicious activcity and deal with log issues and SIEMs not being able to deal with the data. I pushed it on the endpoint to send to your SIEM just the data you want. SWELF https://github.com/ceramicskate0/SWELF
+
 ## Instructions:
 Run the following files to build the ToolBox.
 
