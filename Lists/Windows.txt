@@ -1,3 +1,4 @@
+https://https://github.com/b3dk7/StegExpose
 https://github.com/realparisi/WMI_Monitor
 https://github.com/mattifestation/PowerShellArsenal
 https://github.com/enigma0x3/Misc-PowerShell-Stuff
