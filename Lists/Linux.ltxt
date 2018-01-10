@@ -2,6 +2,7 @@ git clone https://github.com/ztgrace/sticky_keys_hunter
 git clone https://github.com/google/grr
 git clone https://github.com/fireeye/flare-ida
 git clone https://github.com/fireeye/pycommands
+git clone https://github.com/facebook/osquery
 git clone https://github.com/fireeye/chopshop
 git clone https://github.com/iadgov/Secure-Host-Baseline
 git clone https://github.com/0xd4d/de4dot
