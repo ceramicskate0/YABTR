@@ -30,3 +30,4 @@ https://github.com/darkoperator/Posh-VirusTotal
 https://github.com/JohnLaTwC/PyPowerShellXray
 https://github.com/SwiftOnSecurity/PhishingRegex
 https://github.com/SwiftOnSecurity/SwiftFilter
+https://github.com/Infocyte/PSHunt
