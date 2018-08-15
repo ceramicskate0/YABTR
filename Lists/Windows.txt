@@ -31,3 +31,4 @@ https://github.com/JohnLaTwC/PyPowerShellXray
 https://github.com/SwiftOnSecurity/PhishingRegex
 https://github.com/SwiftOnSecurity/SwiftFilter
 https://github.com/Infocyte/PSHunt
+https://github.com/endgameinc/ClrGuard
