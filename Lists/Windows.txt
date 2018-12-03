@@ -41,3 +41,5 @@ https://github.com/DissectMalware/batch_deobfuscator
 https://github.com/besimorhino/Pause-Process
 https://github.com/nsacyber/Event-Forwarding-Guidance
 https://github.com/Microsoft/WindowsDefenderATP-Hunting-Queries
+https://github.com/beahunt3r/Windows-Hunting
+https://github.com/salesforce/ja3
