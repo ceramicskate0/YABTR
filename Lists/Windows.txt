@@ -35,3 +35,4 @@ https://github.com/endgameinc/ClrGuard
 https://gist.github.com/dezhub/6d2a3ced01aaf081da841f4761455c5f
 https://gist.github.com/mattifestation/8958b4c18d8bca9e221b29252cfee26b
 https://gist.github.com/dezhub/2875fa6dc78083cedeab10abc551cb58
+https://github.com/0xm4v3rick/Extract-Macro
